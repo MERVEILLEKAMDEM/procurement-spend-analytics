@@ -43,4 +43,4 @@ python src/spend_analysis.py
 Sorties : `results/spend_analysis.xlsx`, `results/figures/*.png`, `data/commandes.csv`.
 
 ---
-Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/merveille-kamdem-562aa0284/)
+Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/pascale-merveille-kamdem-562aa0284/)
