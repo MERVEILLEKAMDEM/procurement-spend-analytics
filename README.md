@@ -1,5 +1,7 @@
 # 📦 Procurement Spend Analytics – où partent les dépenses achats ?
 
+[![Tests](https://github.com/MERVEILLEKAMDEM/procurement-spend-analytics/actions/workflows/tests.yml/badge.svg)](https://github.com/MERVEILLEKAMDEM/procurement-spend-analytics/actions)
+
 Analyse de **12 000 commandes** sur un an (données fictives) pour répondre aux questions d'une direction Achats : qui sont les fournisseurs clés, quelle part des achats échappe aux contrats, et combien peut-on économiser ?
 
 ![Pareto fournisseurs](results/figures/pareto_abc.png)
